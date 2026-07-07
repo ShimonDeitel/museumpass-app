@@ -1,0 +1,24 @@
+{
+  "identifier": "StoreKitConfig",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "11000001",
+      "localizations": [
+        {
+          "description": "Photo notes per exhibit, visit map",
+          "displayName": "Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.museumlog.pro",
+      "referenceName": "Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": 2
+}
